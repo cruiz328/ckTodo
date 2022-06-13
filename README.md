@@ -47,7 +47,7 @@
 
 &
 ### Ken Eversley:
-- Email: 
+- Email: krazorfbx@gmail.com
 - LinkedIn: www.linkedin.com/in/keneversley/
 - GitHub: github.com/keneversley
 ## Video:
