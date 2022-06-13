@@ -1,12 +1,10 @@
-README Repo Template
-
-# TITLE
+# CK Todo App
 
 # Description
--  Blank blank black
+- just a normal run-of-the-mill to do up
 
 # Heroku
-  
+- https://cktodo.herokuapp.com/
 # Table of Contents
   - [Heroku](#heroku)
   - [installation](#installation)
