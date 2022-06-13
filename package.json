@@ -1,0 +1,24 @@
+{
+  "name": "cktodo",
+  "version": "1.0.0",
+  "description": "# Description - just a normal run-of-the-mill to do up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruiz328/ckTodo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cruiz328/ckTodo/issues"
+  },
+  "homepage": "https://github.com/cruiz328/ckTodo#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {}
+}
