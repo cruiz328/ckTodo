@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: cloumn;
+  align-items: center;
+  justify-content: center;
+}
+
+.form input {
+  width: 300px;
+  height: 60px;
+  margin: 10px;
+  font-size: 25px;
+}
+
+.card {
+  width: 500px;
+  height: 150px;
+  border: 2px solid black;
+  border-radius: 15px;
+
+}
